@@ -1,0 +1,26 @@
+html {
+  position: relative;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+.container-fluid,
+.container {
+  margin: 0;
+}
+
+.footer-container {
+  position: absolute;
+  bottom: 0;
+}
+
+.footer-link {
+  text-decoration: none;
+}
+
+#footer-bottom p {
+  font-size: 12px;
+}
